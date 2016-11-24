@@ -1,0 +1,43 @@
+	.coding
+	{
+    	width:650px;
+    	margin-left:20px;
+    	height:631px;
+    	border: 1px solid;
+    	float: left;
+	}
+	.mes
+	{
+    	width:650px;
+    	height:600px;
+    	position: absolute;
+    	margin-left: 700px;
+		float: left;
+	}
+	.mes .conlog
+	{
+		width: 497px;
+		height:30px;
+		border: 1px solid;
+		border-bottom:0px;
+		background: #45443B;
+		float: left;
+	}
+	.mes .iframe
+	{
+		 height: 600px;
+		 width: 497px;
+		 border: 1px solid;
+		 border-top: 0px;
+		 background: #262626;
+	}
+	
+	.sub 
+	{
+		width:650px;
+		background: #45443B; 
+	}
+	.sub input
+	{
+		float: right;
+	}
